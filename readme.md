@@ -18,6 +18,12 @@ HELIX this should be h2
 >
 > ## This is an H2 in blockquote.
 
+#### This is h4
+
+##### This is h5
+
+###### This is h6
+
 Some of the words *are emphasized*.
 
 Use two asterisks for **strong emphasis**.
