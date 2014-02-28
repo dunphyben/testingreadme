@@ -18,6 +18,8 @@ HELIX this should be h2
 >
 > ## This is an H2 in blockquote.
 
+### This is H3
+
 #### This is h4
 
 ##### This is h5
